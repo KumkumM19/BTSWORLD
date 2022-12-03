@@ -1,2 +1,2 @@
 # BTSWORLD
-[Link to static website](kumkumm19.github.io)
+[Link to static website](https://kumkumm19.github.io/)
